@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Refectoed Account Management System.C#/1.0.0": {
+        "runtime": {
+          "Refectoed Account Management System.C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Refectoed Account Management System.C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

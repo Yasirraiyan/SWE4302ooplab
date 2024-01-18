@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Refectoed Account Management System.C#\Refectoed Account Management System.C#\bin\Debug\net6.0\Refectoed Account Management System.C#.exe
+C:\Users\ASUS\source\repos\Refectoed Account Management System.C#\Refectoed Account Management System.C#\bin\Debug\net6.0\Refectoed Account Management System.C#.deps.json
+C:\Users\ASUS\source\repos\Refectoed Account Management System.C#\Refectoed Account Management System.C#\bin\Debug\net6.0\Refectoed Account Management System.C#.runtimeconfig.json
+C:\Users\ASUS\source\repos\Refectoed Account Management System.C#\Refectoed Account Management System.C#\bin\Debug\net6.0\Refectoed Account Management System.C#.dll
+C:\Users\ASUS\source\repos\Refectoed Account Management System.C#\Refectoed Account Management System.C#\bin\Debug\net6.0\Refectoed Account Management System.C#.pdb
+C:\Users\ASUS\source\repos\Refectoed Account Management System.C#\Refectoed Account Management System.C#\obj\Debug\net6.0\Refectoed Account Management System.C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Refectoed Account Management System.C#\Refectoed Account Management System.C#\obj\Debug\net6.0\Refectoed Account Management System.C#.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Refectoed Account Management System.C#\Refectoed Account Management System.C#\obj\Debug\net6.0\Refectoed Account Management System.C#.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Refectoed Account Management System.C#\Refectoed Account Management System.C#\obj\Debug\net6.0\Refectoed Account Management System.C#.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Refectoed Account Management System.C#\Refectoed Account Management System.C#\obj\Debug\net6.0\Refectoed Account Management System.C#.dll
+C:\Users\ASUS\source\repos\Refectoed Account Management System.C#\Refectoed Account Management System.C#\obj\Debug\net6.0\refint\Refectoed Account Management System.C#.dll
+C:\Users\ASUS\source\repos\Refectoed Account Management System.C#\Refectoed Account Management System.C#\obj\Debug\net6.0\Refectoed Account Management System.C#.pdb
+C:\Users\ASUS\source\repos\Refectoed Account Management System.C#\Refectoed Account Management System.C#\obj\Debug\net6.0\Refectoed Account Management System.C#.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Refectoed Account Management System.C#\Refectoed Account Management System.C#\obj\Debug\net6.0\ref\Refectoed Account Management System.C#.dll
